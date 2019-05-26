@@ -6,7 +6,7 @@ Unstructured text data is the most abundant, unused and free alternative resourc
 
 ### Hypothesis
 We think that most 
-
+Management Discussion and Analysis
 
 ### Model
 
